@@ -25,8 +25,5 @@ Táto dokumentácia ukazuje schopnosť navrhovať testy, vykonávať ich a písa
 * `Manuálny-test-Doucma.sk (1).xlsx`: Kompletný zoznam vykonaných testovacích prípadov.
 * `LICENSE`, `README.md`.
 
----
 
-### 3. 🛠️ Ďalší krok: Inicializácia
 
-Ste pripravený spustiť **Krok 1 (Vytvorenie prázdneho repozitára na GitHube)** a potom **Krok 2 (Inicializácia Git-u lokálne)** pre projekt `Doucma-Manual-Regression-Tests`?
